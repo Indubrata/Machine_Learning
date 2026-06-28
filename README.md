@@ -9,4 +9,4 @@ Here is a summary of the projects available in this repository. Click on the lin
 | Project / Topic | Description | Link |
 | :--- | :--- | :--- |
 | **Linear & Logistic Regression** | Implementations of Linear Regression (Housing Data) and Logistic Regression (Titanic Dataset). Includes notebooks `LinReg.ipynb` and `LogReg.ipynb`. | [Linear_Logistic_Regression](./Linear_Logistic_Regression/) |
-| **Ensemble Methods** | Data analysis and modeling using tree-based models like XGBoost, Random Forest, and AdaBoost on the Metro Interstate Traffic Volume dataset (`Week3.ipynb`). | [XGBoost_RandomForest_ADABoost](./XGBoost_RandomForest_ADABoost/) |
+| **Ensemble Methods** | Data analysis and modeling using tree-based models like XGBoost, Random Forest, and AdaBoost on the Metro Interstate Traffic Volume dataset (`XGBoost_RandomForest_ADABoost.ipynb`). | [XGBoost_RandomForest_ADABoost](./XGBoost_RandomForest_ADABoost/) |
