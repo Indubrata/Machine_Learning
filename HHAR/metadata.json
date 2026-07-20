@@ -1,0 +1,6 @@
+{
+  "name": "HHAR Activity Classifier",
+  "description": "An interactive machine learning playground and real-time simulator trained on the Heterogeneity Human Activity Recognition (HHAR) dataset, featuring custom neural network training, device heterogeneity analysis, and Gemini AI biomechanical feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
