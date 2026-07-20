@@ -1,11 +1,3 @@
-<div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-  <h1>HHAR - Heterogeneity Human Activity Recognition Classifier</h1>
-  <p><strong>A comprehensive, interactive web environment for studying Machine Learning model performance across diverse sensory devices.</strong></p>
-</div>
-
-<br />
-
 ## 📖 Overview
 
 The **Heterogeneity Human Activity Recognition (HHAR) Classifier** is an advanced academic web application designed to help researchers, students, and engineers understand the complexities of training machine learning models on sensor data (like accelerometers and gyroscopes). Specifically, this project focuses on **device heterogeneity** — what happens when an ML model is trained on data from one device (e.g., a Samsung smartwatch) and tested on another (e.g., an Apple smartphone).
